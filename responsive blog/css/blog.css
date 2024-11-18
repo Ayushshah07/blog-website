@@ -1,0 +1,45 @@
+.post-img{
+    height: 400px;
+    overflow: hidden;
+    /* margin-top: 14px; */
+}
+.post-img img{
+    width: 100%;
+    /* height: 45px; */
+    opacity: 0.5;
+
+}
+.blog-content{
+    /* background-color: purple; */
+}
+.blog-content h1{
+    text-align: center;
+}
+.blog-content p{
+    /* text-align: center; */
+    font-size: 17px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.homearticle{
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+.bloginfo{
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+.authorinfo{
+    margin: 10px;
+}
+.authorinfo div{
+    padding: 5px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

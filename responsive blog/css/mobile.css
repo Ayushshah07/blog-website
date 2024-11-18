@@ -1,0 +1,8 @@
+
+@media Screen and (max-width: 980px) {
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 20px;
+        background-color: red;
+    }
+}

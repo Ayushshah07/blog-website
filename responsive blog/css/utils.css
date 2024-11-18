@@ -1,0 +1,45 @@
+:root {
+    --main-bg-color:brown;
+}
+.max-width-1{
+    max-width: 75vw;
+}
+.max-width-2{
+    max-width: 55vw;
+}
+.mauto{
+    margin: 0px auto;
+}
+.btn{
+    height: 30px;
+    cursor: pointer;
+    
+    width: 40px;
+    margin-right: 10px;
+    font-size: 1.2rem;
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+
+}
+.btn:hover{
+    /* border: 1.5px solid grey; */
+    
+    color: grey;
+
+
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.guera{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.m-y-2{
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
